@@ -89,6 +89,8 @@ background: -webkit-linear-gradient(top, #e3e3e3, #f9f9f9);
 }
 #imageList{ list-style-type: none ; float:left;}
 #imageList li{ width: 64px; height: 64px; float: left; background-size: cover; background-position: 50% 50%; cursor: pointer; border: 4px solid white; margin-right: 1px;}
+#imageList1 li{ width: 64px; height: 64px; float: left; background-size: cover; background-position: 50% 50%; cursor: pointer; border: 4px solid white; margin-right: 1px;}
+#imageList2 li{ width: 64px; height: 64px; float: left; background-size: cover; background-position: 50% 50%; cursor: pointer; border: 4px solid white; margin-right: 1px;}
 .selector{ width: 350px;}
 .selector p{ margin: 5px 0;}
 .selector ul{ float: left; }
